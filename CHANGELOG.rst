@@ -2,6 +2,11 @@
 Changelog for package event_camera_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.4 (2023-08-03)
+------------------
+* fix cmake bug preventing bombout when ROS_VERSION was not set
+* Contributors: Bernd Pfrommer
+
 1.1.3 (2023-08-03)
 ------------------
 * add dependency on rosidl_default_generators and runtime
