@@ -2,6 +2,12 @@
 Changelog for package event_camera_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.6 (2024-05-30)
+------------------
+* bumped cmake required
+* updated documentation
+* Contributors: Bernd Pfrommer
+
 1.1.5 (2023-11-09)
 ------------------
 * remove linter tests (bombout on galactic)
