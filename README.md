@@ -1,3 +1,26 @@
+## event_camera_msgs (jazzy) - 1.3.6-1
+
+The packages in the `event_camera_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --new-track --track jazzy --rosdistro jazzy event_camera_msgs` on `Thu, 30 May 2024 14:54:54 -0000`
+
+The `event_camera_msgs` package was released.
+
+Version of package(s) in repository `event_camera_msgs`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_msgs.git
+- release repository: https://github.com/ros2-gbp/event_camera_msgs-release.git
+- rosdistro version: `1.0.5-3`
+- old version: `1.0.5-3`
+- new version: `1.3.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_msgs (iron) - 1.2.6-1
 
 The packages in the `event_camera_msgs` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron event_camera_msgs` on `Thu, 30 May 2024 14:40:23 -0000`
