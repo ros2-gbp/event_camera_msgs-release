@@ -1,0 +1,61 @@
+ros-kilted-event-camera-msgs (2.0.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 22 May 2025 04:00:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.6-1bookworm) bookworm; urgency=high
+
+  * bumped cmake required
+  * updated documentation
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 30 May 2024 04:00:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.5-1bookworm) bookworm; urgency=high
+
+  * remove linter tests (bombout on galactic)
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 09 Nov 2023 05:00:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.4-1bookworm) bookworm; urgency=high
+
+  * updated changelog
+  * fix cmake bug preventing bombout when ROS_VERSION was not set
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 03 Aug 2023 15:56:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.3-1bookworm) bookworm; urgency=high
+
+  * updated changelog
+  * add dependency on rosidl_default_generators and runtime
+  * added dependency on ros_environment
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 03 Aug 2023 13:41:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.2-1bookworm) bookworm; urgency=high
+
+  * added changelog file
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sat, 29 Jul 2023 12:07:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.1-1bookworm) bookworm; urgency=high
+
+  * bumped package version to match tag version
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sat, 29 Jul 2023 11:54:00 -0000
+
+ros-kilted-event-camera-msgs (1.0.0-1bookworm) bookworm; urgency=high
+
+  * renamed package to event_camera_msgs, msg to EventPacket
+  * initial commit
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 13 Jul 2023 04:00:00 -0000
+
+
