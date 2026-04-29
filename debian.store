@@ -1,1 +1,1 @@
-{"base": "693ed5e7992e", "parent": "debian/rolling/event_camera_msgs", "previous": "3f3703ba9342", "trim": "", "trimbase": ""}
+{"base": "beed66a", "parent": "debian/lyrical/event_camera_msgs", "previous": "c81e466", "trim": "", "trimbase": ""}
